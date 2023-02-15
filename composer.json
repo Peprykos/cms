@@ -1,0 +1,17 @@
+{
+    "name": "peprykos/cms",
+    "description": "System CMS",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Peprykos\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk Hanna",
+            "email": "patryk.hanna@teb.edu.pl"
+        }
+    ],
+    "require": {}
+}
